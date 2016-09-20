@@ -1,0 +1,43 @@
+.fondo{
+	background-image: url(../img/home.jpg);
+	height: 645px;
+}
+#h1{
+	color: white;
+	margin-top: 18%;
+}
+#tith1{
+	padding: 5%;
+}
+#tith2{
+	padding: 5%;
+}
+.yellow{
+	background-color: yellow;
+	height: 445px;
+	padding: 5%;
+}
+.hackathon{
+	margin-top: 5%;
+	margin-left: 8%;
+	width: 80%;
+}
+.tith3{
+	padding: 7%;
+}
+.made{
+	padding: 10%;
+	width: 100%;
+}
+footer{
+	background-color: #4497A3;
+	height: 100%;
+}
+.pie{
+	padding: 2%;
+	margin-left: 4%;
+	color: white;
+}
+.pyel{
+	color: #FFFC02;
+}
